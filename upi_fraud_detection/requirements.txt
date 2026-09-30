@@ -1,0 +1,9 @@
+pandas
+faker
+scikit-learn
+imbalanced-learn
+sqlalchemy
+fastapi
+uvicorn
+streamlit
+joblib
