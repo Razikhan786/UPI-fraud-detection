@@ -149,7 +149,13 @@ Use real (anonymized) transaction data, add behavioral features like transaction
 **Mohd. Razi Khan**
 GitHub: [@Razikhan786](https://github.com/Razikhan786)
 Repository: [UPI-fraud-detection](https://github.com/Razikhan786/UPI-fraud-detection)
+App Link: https://upi-fraud-detection-rfo6samnuwshhdjwsftdgg.streamlit.app/
 
 ## License
 
 This project is for educational/portfolio purposes.
+
+
+
+
+
